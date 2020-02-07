@@ -1,4 +1,4 @@
-# OMF
+# Portfolio Optimization
 Hybrid meta-heuristics for constrained portfolio selection problem
 
 Overview
